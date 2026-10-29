@@ -37,7 +37,7 @@ This work asks:
 
 <p align="center">
   <img src="docs/figuras/fig06_rssi_drone_t10ABR_00.png" width="85%" alt="DRONE RSSI as a function of distance in test t10ABR_00">
-  <br><sub>Figure 6 — DRONE station RSSI as a function of distance in test t10ABR_00 (up to 6.3 km).</sub>
+  <br><sub>Figure 5 — DRONE station RSSI as a function of distance in test t10ABR_00 (up to 6.3 km).</sub>
 </p>
 
 ---
@@ -204,17 +204,17 @@ Full RSSI statistics per session and station (mean, min, max, standard deviation
 
 <p align="center">
   <img src="docs/figuras/fig05_rssi_x_distancia.png" width="95%" alt="RSSI vs. GPS distance">
-  <br><sub>Figure 5 — RSSI vs. actual GPS distance: tests up to 750 m (left) and t10ABR_00 up to 6.3 km (right).</sub>
+  <br><sub>Figure 4 — RSSI vs. actual GPS distance: tests up to 750 m (left) and t10ABR_00 up to 6.3 km (right).</sub>
 </p>
 
 <p align="center">
   <img src="docs/figuras/fig07_diferenca_solo_drone.png" width="85%" alt="Mean RSSI difference between SOLO and DRONE">
-  <br><sub>Figure 7 — Mean RSSI difference (SOLO − DRONE) per operational session.</sub>
+  <br><sub>Figure 6 — Mean RSSI difference (SOLO − DRONE) per operational session.</sub>
 </p>
 
 <p align="center">
   <img src="docs/figuras/fig09_boxplot_estacoes.png" width="60%" alt="Aggregate RSSI distribution per station">
-  <br><sub>Figure 9 — Aggregate RSSI distribution per station (median: SOLO −91 dBm, DRONE −105 dBm).</sub>
+  <br><sub>Figure 8 — Aggregate RSSI distribution per station (median: SOLO −91 dBm, DRONE −105 dBm).</sub>
 </p>
 
 <details>
@@ -222,9 +222,9 @@ Full RSSI statistics per session and station (mean, min, max, standard deviation
 
 | | |
 |---|---|
-| ![](docs/figuras/fig02_rssi_medio_por_estacao.png) Figure 2 — Mean RSSI per station | ![](docs/figuras/fig03_dispersao_sinal.png) Figure 3 — Signal spread |
-| ![](docs/figuras/fig04_desvio_padrao.png) Figure 4 — RSSI standard deviation | ![](docs/figuras/fig08_evolucao_temporal.png) Figure 8 — Change over time |
-| ![](docs/figuras/fig10_rssi_x_distancia_media.png) Figure 10 — Mean RSSI vs. mean distance | ![](docs/figuras/fig11_perfil_radar.png) Figure 11 — Multidimensional profile |
+| ![](docs/figuras/fig02_rssi_medio_por_estacao.png) Figure 2 — Mean RSSI per station | ![](docs/figuras/fig03_dispersao_sinal.png) Figure 2 — Signal spread |
+| ![](docs/figuras/fig04_desvio_padrao.png) Figure 3 — RSSI standard deviation | ![](docs/figuras/fig08_evolucao_temporal.png) Figure 7 — Change over time |
+| ![](docs/figuras/fig10_rssi_x_distancia_media.png) Figure 9 — Mean RSSI vs. mean distance | ![](docs/figuras/fig11_perfil_radar.png) Figure 10 — Multidimensional profile |
 
 </details>
 
